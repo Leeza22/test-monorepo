@@ -1,0 +1,17 @@
+{
+  "name": "adder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "add-one": "^1.0.0"
+  },
+  "gitHead": "dc7d770f77604a596299f1e371eca56f63b889dd"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "@hh/test",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "hancx <hancx@lunion.com.cn>",
+  "homepage": "https://github.com/Leeza22/test-monorepo#readme",
+  "license": "ISC",
+  "main": "lib/test.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://127.0.0.1:4873/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leeza22/test-monorepo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@hh/test.test.js"
+  },
+  "gitHead": "dc7d770f77604a596299f1e371eca56f63b889dd"
+}
